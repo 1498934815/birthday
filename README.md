@@ -95,8 +95,6 @@
 │   │   ├── birthday-music.mp3  # 背景音乐文件
 │   │   └── placeholder.txt     # 占位文件
 │   └── images/          # 可能使用的图片资源（当前未使用）
-├── .htaccess            # Apache服务器配置
-├── nginx.htaccess       # Nginx服务器配置
 └── README.md            # 项目说明
 ```
 
